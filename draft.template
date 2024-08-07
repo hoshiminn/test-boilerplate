@@ -1,4 +1,6 @@
 ---
 Title: ${TITLE}
 Draft: true
+Category:
+- sample
 ---
